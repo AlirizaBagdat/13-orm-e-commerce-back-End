@@ -1,4 +1,4 @@
-# : E-Commerce Back End
+# E-Commerce Back End
 ```md
 13 Object-Relational Mapping (ORM)
 ```
@@ -39,13 +39,16 @@ npm install
 ```
 ### Usage
 MYSQL:
+```md
 source db/schema.sql
 exit
+```
 
+```md
 Node:
 npm run seed
 npm start
-
+```
 ### Features
 ```md
 Insomnia
